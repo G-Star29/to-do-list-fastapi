@@ -5,6 +5,7 @@
 - Поиск задач по фильтрам
 - REST API
 
+Документация к API: your-domain/docs
 
 <br>
 
